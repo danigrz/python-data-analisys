@@ -1,2 +1,2 @@
-# python-data-analisys
-Python notes for data-analisys, basics and tooltips
+# python-data-analysis
+Python notes for data-analysis, basics and tooltips
